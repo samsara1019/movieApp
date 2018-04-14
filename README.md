@@ -1,6 +1,6 @@
 Movie APP
 =============
-created by __React__ ,__yts API__
+created by __React__, __yts API__   
 Related posts can be found in the 
 <a href="http://samsara1019.tistory.com/category/프로젝트/%5Breact%5Dmovie_app" target=_blank>blog</a>.  
 
